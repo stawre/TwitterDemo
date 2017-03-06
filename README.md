@@ -1,5 +1,5 @@
 # TwitterDemo
-Time spent: 6 hours in total
+Time spent: 10 hours in total
 Completed User Stories:
 * [X] Tweet Details Page: User can tap on a tweet to view it, with controls to retweet, favorite, and reply.
 * [X] Profile page.
